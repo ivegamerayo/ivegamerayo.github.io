@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hola mi nombre es Ignacio Vega, soy un técnico informático el cual busca aprender desarrollo web y enfocarse a cloud.
 
-### More Information
+### ¿Por que este blog?
 
-A place to include any other types of information that you'd like to include about yourself.
+La razón principal es que quiero aprender y quiero ir expresando todo lo que vaya aprendiendo aqui.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ivegamerayo@protonmail.com](mailto:ivegamerayo@protonmail.com)
