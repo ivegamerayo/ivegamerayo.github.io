@@ -11,6 +11,6 @@ Hola mi nombre es Ignacio Vega, soy un técnico informático el cual busca apren
 
 La razón principal es que quiero aprender y quiero ir expresando todo lo que vaya aprendiendo aqui.
 
-### Contact me
+### Contactactame
 
 [ivegamerayo@protonmail.com](mailto:ivegamerayo@protonmail.com)
